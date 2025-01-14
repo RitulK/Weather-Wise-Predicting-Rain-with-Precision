@@ -5,23 +5,23 @@ The project covers a variety of machine learning classification techniques and e
 **Table of Contents**
 
 - [Project Overview]
-- 
+  
 - [Dataset Information]
-- 
+  
 - [Requirements]
-- 
+  
 - [Implementation Details]
-- 
+  
   - [Data Preprocessing]
-  - 
+    
   - [Model Training]
-  - 
+    
   - [Evaluation Metrics]
-  - 
+    
 - [Results]
-- 
+  
 - [How to Run]
-- 
+  
 - [License]
 
 ## Project Overview
